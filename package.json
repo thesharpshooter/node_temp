@@ -4,7 +4,9 @@
   "description": "Temp node js project",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start" : "npm run lite",
+      "lite" : "lite-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
