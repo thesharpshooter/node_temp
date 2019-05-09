@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thesharpshooter/node_temp/issues"
   },
-  "homepage": "https://github.com/thesharpshooter/node_temp#readme"
+  "homepage": "https://github.com/thesharpshooter/node_temp#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
